@@ -16,7 +16,7 @@ Step 3: Move the image to be classified inside the directory: jetson-inference/p
 
 Step 4: Move the label file inside the directory: jetson-inference/python/training/classification/data
 
-Step 5: Run the following commands:
+Step 5: Run the following commands in your command line:
 
 ```
 cd jetson-inference/python/training/classification
