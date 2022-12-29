@@ -1,1 +1,0 @@
-Step 1: Have the Jetson Inference library installed on your computer.
