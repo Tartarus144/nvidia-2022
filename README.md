@@ -1,4 +1,4 @@
-Step 1: Have the Jetson Inference library installed on your device.
+.Step 1: Have the Jetson Inference library installed on your device using [this link](https://github.com/dusty-nv/jetson-inference)
 
 Step 2: Move the model inside the directory: jetson-inference/python/training/classification/models
 
